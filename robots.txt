@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /checkout.html
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://iptv-quebec.online/sitemap.xml
